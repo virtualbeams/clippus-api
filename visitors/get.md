@@ -1,14 +1,14 @@
 # Obtener lista de visitantes
 
-Obtiene la lista de lista de visitantes a tu establecimiento.
+Obtiene la lista de los visitantes a tu establecimiento.
 
 **URL** : `/api/public/visitors`
 
 **Método** : `GET`
 
-**Autenticación requerida** : YES
+**Autenticación requerida** : SI
 
-**Tipo de atenticación** : Authorization: Bearer <token>
+**Tipo de autenticación** : Authorization: Bearer <token>
 
 **Restricciones de datos**
 

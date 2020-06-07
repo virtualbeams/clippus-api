@@ -12,8 +12,8 @@ Usada para obtener el Token válido para las peticiones.
 
 ```json
 {
-    "email": "[valid email address]",
-    "password": "[password in plain text]"
+    "email": "[Dirección de correo del administrador]",
+    "password": "[Contraseña en texto plano]"
 }
 ```
 
@@ -21,7 +21,7 @@ Usada para obtener el Token válido para las peticiones.
 
 ```json
 {
-    "email": "email@example.com",
+    "email": "email@ejemplo.com",
     "password": "abcd1234"
 }
 ```

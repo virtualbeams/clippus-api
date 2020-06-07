@@ -1,6 +1,6 @@
 # Clippus Rest-API
 
-Esta es la documentación de API pública de la aplicación Clippus
+Esta es la documentación de API pública de la aplicación
 [Clippus](https://clippus.info/), si aún no tienes una cuenta te invitamos a crearla.
 
 La URL base para cualquier petición es 'https://api.clippus.info/'.
