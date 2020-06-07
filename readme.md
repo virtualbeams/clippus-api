@@ -9,7 +9,7 @@ La URL base para cualquier petición es 'https://api.clippus.info/'.
 
 Endpoints públicos no requieren autenticación
 
-* [Auth](auth.md) : `POST /api/pubic/auth`
+* [Auth](auth.md) : `POST /api/public/auth`
 
 ## Endpoints que requieren autenticación
 
