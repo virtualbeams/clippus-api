@@ -13,11 +13,11 @@ Endpoints públicos no requieren autenticación
 
 ## Endpoints que requieren autenticación
 
-Endpoints cerrados requiren un token valido el cual debe ser incluida en el encabezado de la petición. El token puede ser obtenido usando el endpoint de "Auth" descrito anteriormente.
+Para Endpoints cerrados es requerido un Token válido con el cuál se podrán realizar peticiones de manera segurda. Este Token debe ser incluido en el **encabezado de la petición**. El Token deberá ser obtenido mediante el endpoint de [Auth](auth.md) descrito anteriormente.
 
 ### Obtener visitantes
 
-Para obtener los visitantes a tu establecimiento debes utilizar el siguiente endpoint:
+Para obtener la lista de los visitantes a tu establecimiento debes utilizar el siguiente endpoint:
 
 * [Obtener visitantes](visitors/get.md) : `GET /api/public/visitors`
 
