@@ -89,6 +89,22 @@ Acá se muestra la estructura de la respuesta:
 }
 ```
 
+## Tabla de tipos de documentos
+
+| ID | Tipo de Documento |
+| ------------- | ------------- |
+| 1  | Pasaporte  |
+| 2  | Cédula de ciudadanía |
+| 3  | Registro civil |
+| 4  | Cédula de extranjería  |
+| 5  | Permiso especial de permanencia |
+| 6  | Tarjeta de identidad |
+| 7  | Número único de identificación |
+| 8  | Cédula venezolana |
+| 9  | Acta de nacimiento venezolana |
+| 10  | DNI |
+| 13  | Número de identificación |
+
 ## Nota importante
 
 * Solo está habilitado realizar 100 peticiones por hora, en caso de sobrepasar ese límite el servidor respondrá:
