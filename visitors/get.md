@@ -107,6 +107,6 @@ Acá se muestra la estructura de la respuesta:
 
 ## Nota importante
 
-* Solo está habilitado realizar 100 peticiones por hora, en caso de sobrepasar ese límite el servidor respondrá:
+* Solo está habilitado realizar 100 peticiones por hora, en caso de sobrepasar ese límite el servidor responderá un error:
 
 **Código** : `429 Too Many Requests`
