@@ -13,7 +13,7 @@ Endpoints públicos no requieren autenticación
 
 ## Endpoints que requieren autenticación
 
-Endpoints cerrados requiren un token valido el cual debe ser uncluido en el encabezado de la petición. El token puede ser obtenido usando el endpoint de "Auth" descrito anteriormente.
+Endpoints cerrados requiren un token valido el cual debe ser incluida en el encabezado de la petición. El token puede ser obtenido usando el endpoint de "Auth" descrito anteriormente.
 
 ### Obtener visitantes
 
