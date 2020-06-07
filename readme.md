@@ -9,11 +9,15 @@ La URL base para cualquier petición es 'https://api.clippus.info/'.
 
 Endpoints públicos no requieren autenticación
 
+### Obtener Token de autorización
+
+Para obtener el token de autorización y ser utilizado en los endpoints cerrados:
+
 * [Auth](auth.md) : `POST /api/public/auth`
 
 ## Endpoints que requieren autenticación
 
-Para Endpoints cerrados es requerido un Token válido con el cuál se podrán realizar peticiones de manera segurda. Este Token debe ser incluido en el **encabezado de la petición**. El Token deberá ser obtenido mediante el endpoint de [Auth](auth.md) descrito anteriormente.
+Para endpoints cerrados es requerido un **Token** válido con el que se pueden realizar peticiones de manera segura. Este Token debe ser incluido en el **encabezado de la petición**. Este Token deberá ser obtenido mediante el endpoint de [Auth](auth.md) descrito anteriormente.
 
 ### Obtener visitantes
 
